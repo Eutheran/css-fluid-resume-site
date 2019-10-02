@@ -1,0 +1,103 @@
+/*
+#2B2D42
+#8D99AE
+#EDF2F4
+#EF233C
+*/
+
+/* GLOBAL STYLES
+--------------------------------- */
+html {
+  box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  margin: 0;
+}
+
+h1,
+h2 {
+  font-family: 'Merriweather', serif;
+}
+h1 {
+  font-size: 55px;
+}
+
+h2 {
+  font-size: 35px;
+  margin: 0;
+}
+
+a {
+  color: #ef233c;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.content-wrap {
+  max-width: 950px;
+  margin: 0 auto;
+  padding: 50px;
+  overflow: auto;
+}
+.col-narrow {
+  width: 30%;
+  float: left;
+  min-height: 175px;
+}
+.col-wide {
+  width: 70%;
+  float: left;
+  padding-left: 20px;
+}
+
+/* HEADER AND FOOTER
+--------------------------------- */
+header,
+footer {
+  background-color: #2b2d42;
+  color: #8d99ae;
+}
+/* header styles */
+/* header {
+  text-align: center;
+} */
+.profile-img {
+  /* width: 220px; */
+  border-radius: 50%;
+  /* margin-right: 30px;
+  float: left; */
+}
+header h1,
+header h2 {
+  color: #edf2f4;
+  margin: 0;
+}
+/* footer styles */
+footer {
+  text-align: center;
+}
+.contact-info a {
+  margin: 10px;
+  display: inline-block;
+}
+/*  WORK AND EXPERIENCE
+--------------------------------- */
+.work-experience {
+  background-color: #edf2f4;
+}
+
+.education {
+  background-color: #8d99ae;
+}
+
+/* EDUCATION
+--------------------------------- */
