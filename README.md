@@ -2,4 +2,4 @@
 
 a basic resume website
 
-![ResumeSiteScreenshot](/images/site_screenshot.png)
+![ResumeSiteScreenshot](/images/site_screenshot_proper.png)
