@@ -1,5 +1,5 @@
-# css-simple-resume-site
+# css-resume-site
 
-a basic resume website
+A resume website using mobile first design principles
 
 ![ResumeSiteScreenshot](/images/site_screenshot_proper.png)
